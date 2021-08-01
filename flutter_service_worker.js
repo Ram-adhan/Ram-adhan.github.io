@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f88f198cc3baf61c622c8e61778591f9",
+  "assets/AssetManifest.json": "b973f6bf70197b98ada80526da8a553c",
 "assets/assets/fonts/raleway/Raleway-Bold.ttf": "f49f3d2d9df5013c9bfaab7e3d39ee57",
 "assets/assets/fonts/raleway/Raleway-ExtraBold.ttf": "be3bf63a30b4523ae221bd4358b13e8f",
 "assets/assets/fonts/raleway/Raleway-Italic.ttf": "b43297391b7d5d5d7b135958668c1876",
@@ -11,19 +11,20 @@ const RESOURCES = {
 "assets/assets/fonts/raleway/Raleway-Regular.ttf": "9942588a6c84f959132556d99e83ded6",
 "assets/assets/fonts/raleway/Raleway-SemiBold.ttf": "5a25c50b181b07279489ce5bb6a9545c",
 "assets/assets/gif/loader_blue.gif": "584b607f5c2ff075429dc0e7b8d142ef",
+"assets/assets/icons/check-in.svg": "9c8bfd34317c2a6d0d8ff7f5042a08ab",
 "assets/assets/icons/error.svg": "3c15599a923ac442795216bb7c3b6247",
 "assets/assets/icons/facility_icon.svg": "dc7802a5fdc496b157ddcbcfb78809b1",
 "assets/assets/images/Banner.png": "5784f79ac4b1177d35776b54cce57adb",
 "assets/FontManifest.json": "daab9a0075dcd3a509e8d0a1906ce2eb",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "30fae16017c20d5a5487046ba9c829cc",
+"assets/NOTICES": "ff2d5d46e82f73a2122807139a85db54",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "83f1f2423c5b4e6a21a41b01aa2c8a60",
-"/": "83f1f2423c5b4e6a21a41b01aa2c8a60",
-"main.dart.js": "3554b24a38dfa954278d6e88796e01aa",
+"index.html": "05d44e1694da63138924173dbfbe870c",
+"/": "05d44e1694da63138924173dbfbe870c",
+"main.dart.js": "4558fb8b62f02a01ad468c3347e7e402",
 "manifest.json": "6f974eecb176d7129058234ed55d866c",
 "version.json": "64012143e29ac710176ca25f0829bb0d"
 };
